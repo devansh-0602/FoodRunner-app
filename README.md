@@ -11,8 +11,8 @@ of their choice from the available restaurant in their area.
      Forgot password
 ### Menu drawer
      Menu header
-     Registered Name
-     Registered Phone number
+          1) Registered Name
+          2) Registered Phone number
      
      1) Home: List of restaurants
              Sort By:
