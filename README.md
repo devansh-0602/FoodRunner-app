@@ -13,7 +13,8 @@ of their choice from the available restaurant in their area.
      Menu header
           1) Registered Name
           2) Registered Phone number
-     
+          
+### Menu      
      1) Home: List of restaurants
              Sort By:
                Cost (Low to High)
