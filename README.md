@@ -14,16 +14,16 @@ of their choice from the available restaurant in their area.
      Registered Name
      Registered Phone number
      
-     Home: List of restaurants
-        Sort By:
-          Cost (Low to High)
-          Cost (High to Low)
-          Rating
-     My profile
-     Favourite Restaurants
-     Order History
-     FAQs
-     Log out
+     1) Home: List of restaurants
+             Sort By:
+               Cost (Low to High)
+               Cost (High to Low)
+               Rating
+     2) My profile
+     3) Favourite Restaurants
+     4) Order History
+     5) FAQs
+     6) Log out
      
 
   
